@@ -1,0 +1,7 @@
+Forward reads         = /home/pat24659/Downloads/NOVOPlasty/teste/Homo_sapiens_R1.fasta.gz
+Reverse reads         = /home/pat24659/Downloads/NOVOPlasty/teste/Homo_sapiens_R2.fasta.gz
+Output path           = /home/pat24659/Downloads/NOVOPlasty/teste/a/salvaraqui/Homo_sapiens
+*
+Forward reads         = /home/pat24659/Downloads/NOVOPlasty/teste/Homo_sapiens3_R1.fasta.gz
+Reverse reads         = /home/pat24659/Downloads/NOVOPlasty/teste/Homo_sapiens3_R2.fasta.gz
+Output path           = /home/pat24659/Downloads/NOVOPlasty/teste/a/salvaraqui/Homo_sapiens3
